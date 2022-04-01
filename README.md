@@ -9,9 +9,9 @@ The experiments were carried out using the MNIST database.  Since the aim of the
 
 ## Requirments
 Install all the packages from requirments.txt
-* Python3
-* Pytorch
-* Torchvision
-* SPADE
+* Python 3.8.10
+* Pytorch 1.9.0+cu102
+* Torchvision 0.10.0+cu102
+* SPADE 3.2.0
 * XMPP server we recommend using [Prosody](https://prosody.im/)
 
